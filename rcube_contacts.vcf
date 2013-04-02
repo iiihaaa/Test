@@ -1,0 +1,6 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Contact;Example;;;
+FN:Example Contact
+EMAIL;TYPE=INTERNET:example@roundcube.net
+END:VCARD
